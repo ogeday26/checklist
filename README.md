@@ -1,4 +1,4 @@
-# checklist-2018
+# checklist
 This repository contains the technologies that I have to watch for until the end of 2018.
 
 | 2018          | 2019          |
