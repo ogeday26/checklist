@@ -11,3 +11,4 @@ This repository contains the technologies that I have to watch for until the end
 | Swarm         | Graphql       |
 | JWT           | Java          |
 | Graphql       | MongoDb       |
+                | JWT           |
