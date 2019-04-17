@@ -9,6 +9,5 @@ This repository contains the technologies that I have to watch for until the end
 | Docker        | React         |
 | Kubernetes    | React Native  |
 | Swarm         | Graphql       |
-| JWT           | Java          |
+| JWT           | Jwt           |
 | Graphql       | MongoDb       |
-|               | JWT           |
