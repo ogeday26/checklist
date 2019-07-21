@@ -1,5 +1,6 @@
 # checklist
-This repository contains the technologies that I have to watch for until the end of 2019.
+
+### The technologies I use.
 
 | 2019          |
 | ------------- |
