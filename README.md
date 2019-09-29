@@ -20,4 +20,5 @@
 | [Hapi.js](https://github.com/hapijs "Hapi.js") |
 | [Azure Devops](https://dev.azure.com "Azure Devops") |
 | [ZN Framework](https://www.znframework.com/ "ZN Framework") |
+| [Laravel](https://laravel.com/ "Laravel") |
 
